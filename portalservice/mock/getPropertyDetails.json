@@ -1,0 +1,63 @@
+{
+    "properties":[
+       {
+          "imageUrl":"https://picsum.photos/200/300?random=1",
+          "title":"Video"
+       },
+       {
+          "imageUrl":"https://picsum.photos/200/300?random=2",
+          "title":"Kitchen"
+       },
+       {
+          "imageUrl":"https://picsum.photos/200/300?random=3",
+          "title":"Master Bedroom"
+       },
+       {
+          "imageUrl":"https://picsum.photos/200/300?random=4",
+          "title":"Guest Bedroom"
+       },
+       {
+          "imageUrl":"https://picsum.photos/200/300?random=5",
+          "title":"Childrens Bedroom"
+       },
+       {
+          "imageUrl":"https://picsum.photos/200/300?random=6",
+          "title":"Master Bathroom"
+       },
+       {
+          "imageUrl":"https://picsum.photos/200/300?random=7",
+          "title":"Location Pic"
+       }
+    ],
+    "nearBy":[
+       {
+          "title":"Near to Schools",
+          "iconName":"IconSchool"
+       },
+       {
+          "title":"Near to University",
+          "iconName":"IconUniversity"
+       },
+       {
+          "title":"Near to Shopping Malls",
+          "iconName":"ShoppingMall"
+       },
+       {
+          "title":"Near to Metro Station",
+          "iconName":"Metro"
+       },
+       {
+          "title":"Near to Bus Stand",
+          "iconName":"Busstand"
+       },
+       {
+          "title":"Near to Hindhu Temples",
+          "iconName":"Temple"
+       },
+       {
+          "title":"Near to Church",
+          "iconName":"Church"
+       }
+    ],
+    "favCount":240
+ }

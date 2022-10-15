@@ -1,0 +1,28 @@
+{
+    "messages":[
+       {
+          "type":"info",
+          "day":"14",
+          "date":"January 2022 10:00 AM",
+          "message":"Mr. Prakash Rao is showing interest in your 3BHK property, we have shared your contact. He may be contacting you with phone 9866247912"
+       },
+       {
+          "type":"warning",
+          "day":"15",
+          "date":"January 2022 11:00 AM",
+          "message":"Only 3 days left for 3BHK Property listing, youe may align the details as needed"
+       },
+       {
+          "type":"success",
+          "day":"12",
+          "date":"January 2022 11:00 AM",
+          "message":"our 3BHK property successfully posted, you will start receiving the requests soon."
+       },
+       {
+          "type":"info",
+          "day":"14",
+          "date":"January 2022 10:00 AM",
+          "message":"Mr. Prakash Rao is showing interest in your 3BHK property, we have shared your contact. He may be contacting you with phone 9866247912"
+       }
+    ]
+ }

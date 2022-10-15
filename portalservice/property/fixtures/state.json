@@ -1,0 +1,18 @@
+[
+    {
+        "model": "property.state",
+        "fields": {
+            "statecd": "AP",
+            "statename": "AP",
+            "countrycd": "AP"
+        }
+    },
+    {
+        "model": "property.state",
+        "fields": {
+            "statecd": "TL",
+            "statename": "TL",
+            "countrycd": "TL"
+        }
+    }
+]

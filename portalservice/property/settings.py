@@ -1,0 +1,1 @@
+PROPERT_SEARCH_IDX = 'property_search_idx'

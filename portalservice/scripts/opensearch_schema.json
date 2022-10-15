@@ -1,0 +1,11 @@
+{
+  "properties_content": {
+    "mappings": {
+      "properties": {
+        "location": {
+          "type": "keyword"
+        }
+      }
+    }
+  }
+}
